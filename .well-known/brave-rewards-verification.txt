@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: deltronik.net
-Token: d93ca186a0233a86ab1888bb0151c320bfd80ef44c751c2d7224a613f04d1ffc
